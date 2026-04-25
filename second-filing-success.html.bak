@@ -113,27 +113,6 @@ footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Why Second Filings Fail?", "acceptedAnswer": {"@type": "Answer", "text": "Same problems, no changes: If the circumstances that led to the first dismissal or failure are not addressed, the second case faces the same obstacles Reduced stay protection: Under Section 362 (c), repeat filers face a 30-day stay limit (or no stay at all), which gives creditors more leverage..."}}, {"@type": "Question", "name": "How to Make a Second Filing Succeed?", "acceptedAnswer": {"@type": "Answer", "text": "Address the root cause: If you lost a job, have you found stable employment? If medical bills caused the first filing, do you have health insurance now? Get an attorney: If you filed pro se the first time, consider hiring an attorney."}}]}
 </script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to main content</a>
